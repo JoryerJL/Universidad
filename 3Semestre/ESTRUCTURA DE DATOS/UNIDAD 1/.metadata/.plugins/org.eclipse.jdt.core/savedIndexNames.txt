@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/joryer/Documents/TEC DE VILLA/3ER SEMESTRE/ESTRUCTURA DE DATOS/UNIDAD 1/.metadata/.plugins/org.eclipse.jdt.core
+4140894916.index
+2594863560.index
+1865797976.index
